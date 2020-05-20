@@ -15,7 +15,7 @@ class Directory extends React.Component {
         },
         {
           title: "jackets",
-          imageUrl: "https://img.chewy.com/is/image/catalog/153750_MAIN._AC_SS55_V1551220717_.jpg",
+          imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQr5lxRxas91ohGERlEjO092wbP7ae7xjUy-Gujc3r3du8l2hc&usqp=CAU",
           id: 2,
           linkUrl: "shop/jackets",
         },
@@ -34,7 +34,7 @@ class Directory extends React.Component {
         },
         {
           title: "mens",
-          imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-vp2mVS75CRZ-xI60zVGMUm3R5NGvEeA2gT_zLFnuKzuCGcdM&usqp=CAU",
+          imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKiXre_-xUUCcCiQiW0NM8O-wvxCiFFB-5s5OTHDzF8KuzMNBu&usqp=CAU",
           size: "large",
           id: 5,
           linkUrl: "shop/mens",
